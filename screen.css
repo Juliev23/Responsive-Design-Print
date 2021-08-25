@@ -23,7 +23,7 @@ a.btn:hover {background-color: rgba(0,0,0,.3); }
 
 /* header */
 
-header { height: 430px; background: #cf0004 url(/Images/banner_1200.jpg) no-repeat center bottom; position: relative; }
+header { height: 430px; background: #cf0004 no-repeat center bottom; position: relative; background-image: url(Images/banner_825.jpg); }
 
 header a.logo { 
     z-index: 1;
@@ -31,7 +31,7 @@ header a.logo {
     display:block; 
     width: 160px; 
     height: 66px;
-    background: url(../Images/logo.svg) no-repeat 0 0; background-size: contain;
+    background: url(Images/logo.svg) no-repeat 0 0; background-size: contain;
     top: 15px; left: 20px;
 }
 
