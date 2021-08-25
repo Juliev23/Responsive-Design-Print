@@ -64,7 +64,7 @@ section.main aside .content.tools { background-image: url(../Images/icon_gear.sv
 
 section.atmosphere { background-color: #cc6633; padding-top: 30px; padding-bottom: 30px; color: #fff; }
 
-section.atmosphere article { padding: 0 20px 0 515px; background: url(../Images/photo_lounge.jpg) no-repeat 0 5px; min-height: 220px; }
+section.atmosphere article { padding: 0 20px 0 515px; background: url(Images/photo_lounge.jpg) no-repeat 0 5px; min-height: 220px; }
 
 /* section how-to */
 
