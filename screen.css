@@ -23,7 +23,7 @@ a.btn:hover {background-color: rgba(0,0,0,.3); }
 
 /* header */
 
-header { height: 430px; background: #cf0004 no-repeat center bottom; position: relative; background-image: url(Images/banner_1200.jpg); }
+header { height: 430px; background: #cf0004 no-repeat center bottom; position: relative; background-image: url(Images/banner_825.jpg); }
 
 header a.logo { 
     z-index: 1;
